@@ -22,7 +22,7 @@ Contract repo structure:
 ```
 $ sudo npm install -g mirror-besu
 
-git clone https://github.com/arbchain/contracts
+git clone https://github.com/yathishram/Mirror-Besu-Contract-Structure.git
 
 ```
 
