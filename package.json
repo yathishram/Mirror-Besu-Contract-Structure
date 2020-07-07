@@ -1,0 +1,28 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "![version](https://img.shields.io/badge/version-0.1.0beta-blue) [![docs](https://img.shields.io/badge/docs-0.1.0-green)](https://arbchain.consensolabs.com) [![Follow](https://img.shields.io/twitter/follow/consensolabs?style=social&logo=twitter)](https://twitter.com/consensolabs)",
+  "main": "mirror-config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha --timeout 15000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbchain/contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbchain/contracts/issues"
+  },
+  "homepage": "https://github.com/arbchain/contracts#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "mocha": "^8.0.1",
+    "web3": "^1.2.9",
+    "web3-besu": "^0.9.1"
+  }
+}
