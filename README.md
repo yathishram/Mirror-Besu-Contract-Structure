@@ -1,4 +1,4 @@
-# Arbchain contracts
+# Mirror Besu contract structure
 
 ![version](https://img.shields.io/badge/version-0.1.0beta-blue)
 [![docs](https://img.shields.io/badge/docs-0.1.0-green)](https://arbchain.consensolabs.com)
