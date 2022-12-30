@@ -21,7 +21,7 @@
   "homepage": "https://github.com/arbchain/contracts#readme",
   "dependencies": {
     "fs-extra": "^9.0.1",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "web3": "^1.2.9",
     "web3-besu": "^0.9.1"
   }
